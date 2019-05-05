@@ -1,5 +1,7 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/in-60-seconds/master?grs=github)
 
+https://gitpitch.com/tom-sapletta-com/in-60-seconds
+
 # GitPitch In 60 Seconds
 
 To experience the simplicity and power of the GitPitch markdown
